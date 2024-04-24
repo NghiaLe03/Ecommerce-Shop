@@ -1,0 +1,98 @@
+{
+  "products": [
+    {
+      "id": "P001",
+      "name": "Tủ lạnh Panasonic",
+      "price": 20000000,
+      "quantity": 100,
+      "catId": 1,
+      "createAt": "2024-04-17",
+      "image": "product1.png",
+      "status": true
+    },
+    {
+      "id": "P002",
+      "name": "LG",
+      "price": 15000000,
+      "quantity": 5,
+      "catId": 1,
+      "createAt": "2024-04-17",
+      "image": "product2.png",
+      "status": true
+    },
+    {
+      "id": "P003",
+      "name": "Macbook Pro 2024 M2",
+      "price": 30000000,
+      "quantity": 20,
+      "catId": 2,
+      "createAt": "2024-04-17",
+      "image": "product3.png",
+      "status": true
+    },
+    {
+      "id": "P004",
+      "name": "Máy giặt Electrolux",
+      "price": 25000000,
+      "quantity": 30,
+      "catId": 3,
+      "createAt": "2024-04-17",
+      "image": "product4.png",
+      "status": true
+    },
+    {
+      "id": "P005",
+      "name": "Acer Aspire 7",
+      "price": 19000000,
+      "quantity": 25,
+      "catId": 2,
+      "createAt": "2024-04-17",
+      "image": "product5.png",
+      "status": true
+    },
+    {
+      "id": "P006",
+      "name": "Acer Nitro 5",
+      "price": 32000000,
+      "quantity": 50,
+      "catId": 2,
+      "createAt": "2024-04-17",
+      "image": "product6.png",
+      "status": true
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Điện tử - Điện lạnh"
+    },
+    {
+      "id": "2",
+      "name": "Máy tính"
+    },
+    {
+      "id": "3",
+      "name": "Thiết bị gia dụng"
+    }
+  ],
+  "accounts": [
+    {
+      "id": 1,
+      "email": "nghiachen1312@gmail.com",
+      "firstName": "Nghia",
+      "lastName": "Le",
+      "password": "13122003"
+    },
+    {
+      "id": 2,
+      "email": "nghialmhe170697@gmail.com",
+      "firstName": "Nghia",
+      "lastName": "Le Minh",
+      "password": "190471"
+    }
+    
+  ],
+  "orderDetails": [
+    
+  ]
+}
